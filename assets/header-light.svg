@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="152" viewBox="0 0 880 152" role="img" aria-label="Zixu Wang, Ocean Technology at Tongji University">
+  <title>Zixu Wang — Ocean Technology at Tongji University</title>
+  <defs>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#1f2328" fill-opacity="0.055"/>
+    </pattern>
+  </defs>
+  <rect width="880" height="152" fill="url(#grid)"/>
+  <g stroke="#d0d7de" stroke-width="1" fill="none">
+    <path d="M0 32 H880"/>
+    <path d="M0 26 V32 M220 26 V32 M440 26 V32 M660 26 V32 M879 26 V32"/>
+    <path d="M0 140 H880"/>
+    <path d="M600 64 V118"/>
+  </g>
+  <text x="24" y="84" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="600" letter-spacing="-0.4" fill="#1f2328">Zixu Wang</text>
+  <text x="24" y="112" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="2.6" fill="#656d76">OCEAN TECHNOLOGY <tspan fill="#0969da">&#183;</tspan> TONGJI UNIVERSITY</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" letter-spacing="2" fill="#656d76" text-anchor="end">
+    <text x="856" y="80">AUV NAVIGATION &amp; CONTROL</text>
+    <text x="856" y="102">ROS 2 SYSTEM DEVELOPMENT</text>
+  </g>
+</svg>

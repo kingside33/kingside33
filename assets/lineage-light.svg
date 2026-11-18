@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-label="Method families: sampling, graph search, metaheuristics, control, perception">
+  <title>Method families used by littrace's lineage graph</title>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M1.5 1.5 8.5 5 1.5 8.5 Z" fill="#8b949e"/>
+    </marker>
+  </defs>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" letter-spacing="2.2" fill="#656d76">
+    <text x="24" y="18">METHOD FAMILIES</text>
+    <text x="856" y="18" text-anchor="end">FIG. 01</text>
+  </g>
+  <path d="M0 30 H880" stroke="#d0d7de" stroke-width="1" fill="none"/>
+  <g stroke="#8b949e" stroke-width="1.1" fill="none" marker-end="url(#arrow)">
+    <path d="M91.5 62 H288"/>
+    <path d="M305.5 62 H502"/>
+    <path d="M519.5 62 H716"/>
+    <path d="M91.5 64.3 290.8 146.2"/>
+  </g>
+  <g fill="none" stroke="#8b949e" stroke-width="1.1">
+    <circle cx="86" cy="62" r="5.5"/>
+    <circle cx="300" cy="62" r="5.5"/>
+    <circle cx="514" cy="62" r="5.5"/>
+    <circle cx="728" cy="62" r="5.5"/>
+    <circle cx="300" cy="150" r="5.5"/>
+  </g>
+  <g fill="#0969da">
+    <circle cx="86" cy="62" r="2"/>
+    <circle cx="300" cy="62" r="2"/>
+    <circle cx="514" cy="62" r="2"/>
+    <circle cx="728" cy="62" r="2"/>
+    <circle cx="300" cy="150" r="2"/>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" letter-spacing="1.8" fill="#656d76" text-anchor="middle">
+    <text x="86" y="88">SAMPLING</text>
+    <text x="300" y="88">GRAPH SEARCH</text>
+    <text x="514" y="88">CONTROL</text>
+    <text x="728" y="88">PERCEPTION</text>
+    <text x="300" y="176">METAHEURISTICS</text>
+  </g>
+</svg>
