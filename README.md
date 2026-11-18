@@ -61,8 +61,7 @@ path-planning literature — a display grouping, not a claim about citation coun
 
 ## 关于我
 
-同济大学海洋技术方向研究生，做 AUV 导航与控制、ROS 2 系统开发。
-业余在写让科研证据不被弄丢的工具：本地优先、只读集成、答案必须能点回原文。
+
 
 <p align="center">
   <sub>Zixu Wang &nbsp;·&nbsp; <a href="https://orcid.org/0009-0002-9299-9503">ORCID 0009-0002-9299-9503</a></sub>
